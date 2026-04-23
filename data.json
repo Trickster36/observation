@@ -6,7 +6,9 @@
       "observation": "15M TC leads to 1H phase transition.",
       "outcome": "Phase transition",
       "value": "",
-      "count": 0
+      "count": 0,
+      "trueCount": 0,
+      "falseCount": 1
     },
     {
       "id": 1776966516284,
@@ -14,7 +16,9 @@
       "observation": "5M BoS failure leads to break of HL or LH.",
       "outcome": "HL/LH break",
       "value": "",
-      "count": 0
+      "count": 0,
+      "trueCount": 0,
+      "falseCount": 0
     }
   ]
 }
