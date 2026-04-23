@@ -1,6 +1,14 @@
 {
   "observations": [
     {
+      "id": 1776911167354,
+      "label": "BoS failure",
+      "observation": "5M BoS failure leads to 5M structure failure.",
+      "outcome": "True",
+      "value": "",
+      "count": 1
+    },
+    {
       "id": 1776911130594,
       "label": "15M structure",
       "observation": "5M structure is messy or broken then trust 15M structure because it holds.",
