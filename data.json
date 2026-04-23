@@ -1,6 +1,14 @@
 {
   "observations": [
     {
+      "id": 1776939043093,
+      "label": "5M BoS failure",
+      "observation": "BoS failure leads to 5M HL/LH invalidation.",
+      "outcome": "TC",
+      "value": "",
+      "count": 1
+    },
+    {
       "id": 1776938958148,
       "label": "1H POI",
       "observation": "1H Phase change only happens from 1H POI.",
