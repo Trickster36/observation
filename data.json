@@ -1,6 +1,14 @@
 {
   "observations": [
     {
+      "id": 1776913925557,
+      "label": "5M BoS fail",
+      "observation": "When 5M BoS fails then price reverse but didn't break 5M HL/LH.",
+      "outcome": "Structure hold",
+      "value": "",
+      "count": 1
+    },
+    {
       "id": 1776913862767,
       "label": "5M BoS fail",
       "observation": "When 5M BoS fails then price reverse and break 5M HL/LH.",
