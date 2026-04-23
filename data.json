@@ -1,3 +1,12 @@
 {
-  "observations": []
+  "observations": [
+    {
+      "id": 1776966516284,
+      "label": "5M BoS failure",
+      "observation": "5M BoS failure leads to break of HL or LH.",
+      "outcome": "HL/LH break",
+      "value": "",
+      "count": 1
+    }
+  ]
 }
