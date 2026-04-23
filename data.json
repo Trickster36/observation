@@ -1,36 +1,3 @@
 {
-  "observations": [
-    {
-      "id": 1776916579493,
-      "label": "15M TC",
-      "observation": "When 15M structure breaks then directional bias stays the same.",
-      "outcome": "Bias stays same",
-      "value": "",
-      "count": 0
-    },
-    {
-      "id": 1776916537998,
-      "label": "15M TC",
-      "observation": "When 15M structure breaks then directional bias shifts.",
-      "outcome": "Bias shift",
-      "value": "",
-      "count": 3
-    },
-    {
-      "id": 1776913925557,
-      "label": "5M BoS fail",
-      "observation": "When 5M BoS fails then price reverse but didn't break 5M HL/LH.",
-      "outcome": "Structure hold",
-      "value": "",
-      "count": 1
-    },
-    {
-      "id": 1776913862767,
-      "label": "5M BoS fail",
-      "observation": "When 5M BoS fails then price reverse and break 5M HL/LH.",
-      "outcome": "Structure fail",
-      "value": "",
-      "count": 4
-    }
-  ]
+  "observations": []
 }
