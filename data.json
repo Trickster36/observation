@@ -1,20 +1,3 @@
 {
-  "observations": [
-    {
-      "id": 1776911130594,
-      "label": "15M structure",
-      "observation": "5M structure is messy or broken then trust 15M structure because it holds.",
-      "outcome": "True",
-      "value": "",
-      "count": 0
-    },
-    {
-      "id": 1776911059542,
-      "label": "Bias shift",
-      "observation": "When 15M structure breaks then directional bias change.",
-      "outcome": "True",
-      "value": "",
-      "count": 0
-    }
-  ]
+  "observations": []
 }
