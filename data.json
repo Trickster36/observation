@@ -6,7 +6,7 @@
       "observation": "When 5M BoS fails then price reverse but didn't break 5M HL/LH.",
       "outcome": "Structure hold",
       "value": "",
-      "count": 0
+      "count": 1
     },
     {
       "id": 1776913862767,
