@@ -1,14 +1,6 @@
 {
   "observations": [
     {
-      "id": 1776939249354,
-      "label": "15M hold",
-      "observation": "Even after 5M structure breaks 15M still holds the phase.",
-      "outcome": "Phase intact",
-      "value": "",
-      "count": 0
-    },
-    {
       "id": 1776939043093,
       "label": "5M BoS failure",
       "observation": "BoS failure leads to 5M HL/LH invalidation.",
