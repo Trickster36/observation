@@ -1,3 +1,12 @@
 {
-  "observations": []
+  "observations": [
+    {
+      "id": 1776913862767,
+      "label": "5M BoS fail",
+      "observation": "When 5M BoS fails then price reverse and break 5M HL/LH.",
+      "outcome": "Structure fail",
+      "value": "",
+      "count": 1
+    }
+  ]
 }
