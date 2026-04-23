@@ -1,6 +1,14 @@
 {
   "observations": [
     {
+      "id": 1776930432198,
+      "label": "15M vs 5M",
+      "observation": "5M TC doesn't matter but 15M TC matters.",
+      "outcome": "Trend sustainability",
+      "value": "",
+      "count": 1
+    },
+    {
       "id": 1776916579493,
       "label": "15M TC",
       "observation": "When 15M structure breaks then directional bias stays the same.",
