@@ -14,7 +14,7 @@
       "observation": "When 5M BoS fails then price reverse and break 5M HL/LH.",
       "outcome": "Structure fail",
       "value": "",
-      "count": 1
+      "count": 4
     }
   ]
 }
