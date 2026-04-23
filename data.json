@@ -1,3 +1,12 @@
 {
-  "observations": []
+  "observations": [
+    {
+      "id": 1776911059542,
+      "label": "Bias shift",
+      "observation": "When 15M structure breaks then directional bias change.",
+      "outcome": "True",
+      "value": "",
+      "count": 1
+    }
+  ]
 }
