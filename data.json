@@ -1,6 +1,15 @@
 {
   "observations": [
     {
+      "id": 1777392807101,
+      "label": "HTF context",
+      "observation": "1H failed to do BoS so price reversed",
+      "outcome": "Reversal",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    },
+    {
       "id": 1776966559910,
       "label": "15M TC",
       "observation": "15M TC leads to 1H phase transition.",
