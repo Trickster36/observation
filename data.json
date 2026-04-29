@@ -1,33 +1,3 @@
 {
-  "observations": [
-    {
-      "id": 1777392807101,
-      "label": "HTF context",
-      "observation": "1H failed to do BoS so price reversed",
-      "outcome": "Reversal",
-      "value": "",
-      "trueCount": 0,
-      "falseCount": 0
-    },
-    {
-      "id": 1776966559910,
-      "label": "15M TC",
-      "observation": "15M TC leads to 1H phase transition.",
-      "outcome": "Phase transition",
-      "value": "",
-      "count": 0,
-      "trueCount": 0,
-      "falseCount": 1
-    },
-    {
-      "id": 1776966516284,
-      "label": "5M BoS failure",
-      "observation": "5M BoS failure leads to break of HL or LH.",
-      "outcome": "HL/LH break",
-      "value": "",
-      "count": 0,
-      "trueCount": 5,
-      "falseCount": 3
-    }
-  ]
+  "observations": []
 }
