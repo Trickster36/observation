@@ -1,6 +1,15 @@
 {
   "observations": [
     {
+      "id": 1777439624910,
+      "label": "Only 4H CRT",
+      "observation": "No need for 1H context, only 4H CRT check is enough combined with 5M structure.",
+      "outcome": "Good",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    },
+    {
       "id": 1777439584113,
       "label": "1H phase",
       "observation": "1H trend and 5M structure with 1H phase direction, with 4H CRT check.",
