@@ -1,3 +1,13 @@
 {
-  "observations": []
+  "observations": [
+    {
+      "id": 1777608928462,
+      "label": "1H CRT vs 4H CRT",
+      "observation": "1H cont.  4H cont.",
+      "outcome": "Continuation",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    }
+  ]
 }
