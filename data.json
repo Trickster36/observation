@@ -1,6 +1,15 @@
 {
   "observations": [
     {
+      "id": 1777693954393,
+      "label": "Wick poke",
+      "observation": "5M BoS with 1H body close failure.",
+      "outcome": "Reversal",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    },
+    {
       "id": 1777693880609,
       "label": "Body close",
       "observation": "5M BoS with 1H body close.",
