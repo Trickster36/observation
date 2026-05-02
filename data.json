@@ -1,3 +1,13 @@
 {
-  "observations": []
+  "observations": [
+    {
+      "id": 1777693880609,
+      "label": "Body close",
+      "observation": "5M BoS with 1H body close.",
+      "outcome": "Continuation",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    }
+  ]
 }
