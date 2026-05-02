@@ -6,7 +6,7 @@
       "observation": "5M BoS with 1H body close failure.",
       "outcome": "Reversal",
       "value": "",
-      "trueCount": 0,
+      "trueCount": 1,
       "falseCount": 0
     },
     {
