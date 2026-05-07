@@ -1,6 +1,15 @@
 {
   "observations": [
     {
+      "id": 1778128481961,
+      "label": "Internal swing",
+      "observation": "Internal swing with support cause structure change.",
+      "outcome": "Reversal",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    },
+    {
       "id": 1777693954393,
       "label": "Wick poke",
       "observation": "5M BoS with 1H body close failure.",
