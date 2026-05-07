@@ -1,6 +1,15 @@
 {
   "observations": [
     {
+      "id": 1778176772129,
+      "label": "HTF origin move",
+      "observation": "If price is coming from a HTF POI with consolidation, sub structure and failed BoS then price reverse.",
+      "outcome": "Reversal",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    },
+    {
       "id": 1778128481961,
       "label": "Internal swing",
       "observation": "Internal swing with support cause structure change.",
