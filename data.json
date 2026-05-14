@@ -6,7 +6,7 @@
       "observation": "If price is coming from a HTF POI with consolidation, sub structure and failed BoS then price reverse.",
       "outcome": "Reversal",
       "value": "",
-      "trueCount": 1,
+      "trueCount": 2,
       "falseCount": 0
     },
     {
