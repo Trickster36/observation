@@ -1,3 +1,13 @@
 {
-  "observations": []
+  "observations": [
+    {
+      "id": 1779005904993,
+      "label": "POIs",
+      "observation": "HH, LL, S/D, S/R, multiple swings, 1H internal swing",
+      "outcome": "Reversal",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    }
+  ]
 }
