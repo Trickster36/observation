@@ -1,6 +1,15 @@
 {
   "observations": [
     {
+      "id": 1779006017801,
+      "label": "1H internal SB",
+      "observation": "After internal SB, retest can happen and that can break 5M structure.",
+      "outcome": "Reversal",
+      "value": "",
+      "trueCount": 0,
+      "falseCount": 0
+    },
+    {
       "id": 1779005904993,
       "label": "POIs",
       "observation": "HH, LL, S/D, S/R, multiple swings, 1H internal swing",
