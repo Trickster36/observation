@@ -15,7 +15,7 @@
       "observation": "HH, LL, S/D, S/R, multiple swings, 1H internal swing",
       "outcome": "Reversal",
       "value": "",
-      "trueCount": 0,
+      "trueCount": 1,
       "falseCount": 0
     }
   ]
